@@ -1,5 +1,5 @@
 function makeArray(firstArray, secondArray, maxLength) {
-  return third_Array = firstArray.concat(secondArray).slice(0, maxLength);
+  return  firstArray.concat(secondArray).slice(0, maxLength);
   }
   
   console.log(makeArray(["Mango", "Poly"], ["Ajax", "Chelsea"], 3)); // ["Mango", "Poly", "Ajax"]
